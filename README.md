@@ -100,3 +100,4 @@ We believe the future of space exploration depends on interdisciplinary research
 **Project:** MAG-LASER  
 **Team:** All Hands On Deck  
 **Challenge:** NASA Space Apps Challenge 2026
+
