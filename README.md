@@ -28,7 +28,7 @@
 [PROTECTION ARCHITECTURE](#-four-layer-protection-architecture) •
 [DASHBOARD](#-interactive-dashboard) •
 [OUR TEAM](#-meet-the-team) •
-[🚀 GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/)
+[🚀 GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER/)
 
 </div>
 
@@ -182,7 +182,7 @@ The interface follows a scientific mission-control design approach, providing an
 
 <br>
 
-<a href="https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/">
+<a href="https://allhandsondeck2026.github.io/MAG-LASER/">
 <img src="https://img.shields.io/badge/GO%20TO%20LIVE%20PROJECT-OPEN%20DASHBOARD-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Go to Live Project">
 </a>
 
@@ -326,11 +326,11 @@ Our work is driven by the belief that meaningful innovation begins with an idea,
 
 **Location:** Baghdad, Iraq
 
-**Live Project:** [GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/)
+**Live Project:** [GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER/)
 
 **GitHub Organization:** [allhandsondeck2026](https://github.com/allhandsondeck2026)
 
-**Project Repository:** [MAG-LASER](https://github.com/allhandsondeck2026/MAG-LASER-Active-Shielding)
+**Project Repository:** [MAG-LASER](https://github.com/allhandsondeck2026/MAG-LASER)
 
 ---
 
