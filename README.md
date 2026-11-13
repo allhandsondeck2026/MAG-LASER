@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/images/banner.png" width="100%" alt="MAG-LASER Project Banner">
 
 <br><br>
 
@@ -32,7 +31,7 @@
 
 </div>
 
----
+<img src="assets/images/banner.png" width="100%" alt="MAG-LASER Project Banner">
 
 # 🌌 Project Overview
 
