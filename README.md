@@ -27,7 +27,8 @@
 [PROJECT OVERVIEW](#-project-overview) •
 [PROTECTION ARCHITECTURE](#-four-layer-protection-architecture) •
 [DASHBOARD](#-interactive-dashboard) •
-[OUR TEAM](#-meet-the-team)
+[OUR TEAM](#-meet-the-team) •
+[🚀 GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/)
 
 </div>
 
@@ -175,11 +176,19 @@ The interface follows a scientific mission-control design approach, providing an
 
 <div align="center">
 
-### LIVE PROJECT DASHBOARD
+### 🚀 LIVE PROJECT DASHBOARD
 
-[![Open Dashboard](https://img.shields.io/badge/OPEN%20LIVE%20DASHBOARD-Visit%20Project-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_GITHUB_PAGES_URL)
+**Explore the MAG-LASER project through its interactive live dashboard.**
 
-**Live Dashboard:** YOUR_GITHUB_PAGES_URL
+<br>
+
+<a href="https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/">
+<img src="https://img.shields.io/badge/GO%20TO%20LIVE%20PROJECT-OPEN%20DASHBOARD-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Go to Live Project">
+</a>
+
+<br><br>
+
+*Click above to launch the live MAG-LASER project.*
 
 </div>
 
@@ -316,6 +325,8 @@ Our work is driven by the belief that meaningful innovation begins with an idea,
 **Event:** NASA Space Apps Challenge 2026
 
 **Location:** Baghdad, Iraq
+
+**Live Project:** [GO TO LIVE PROJECT →](https://allhandsondeck2026.github.io/MAG-LASER-Active-Shielding/)
 
 **GitHub Organization:** [allhandsondeck2026](https://github.com/allhandsondeck2026)
 
