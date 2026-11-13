@@ -23,6 +23,10 @@
 
 <br>
 
+<img src="assets/images/banner.png" width="100%" alt="MAG-LASER Project Banner">
+
+<br><br>
+
 [PROJECT OVERVIEW](#-project-overview) •
 [PROTECTION ARCHITECTURE](#-four-layer-protection-architecture) •
 [DASHBOARD](#-interactive-dashboard) •
@@ -31,7 +35,7 @@
 
 </div>
 
-<img src="assets/images/banner.png" width="100%" alt="MAG-LASER Project Banner">
+---
 
 # 🌌 Project Overview
 
